@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setupWebView((WebView) findViewById(R.id.webView));
+        // setupWebView((WebView) findViewById(R.id.webView));
     }
 
     protected void setupWebView(WebView webView) {
