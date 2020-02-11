@@ -15,6 +15,8 @@ jobs:
           java-version: 1.8
       - name: Install Android SDK
         uses: malinskiy/action-android/install-sdk@release/0.0.5
+      - name: Lint
+        run:  ./gradlew lint
       - name: Emulator
         uses: malinskiy/action-android/emulator-run-cmd@release/0.0.5
         with:
