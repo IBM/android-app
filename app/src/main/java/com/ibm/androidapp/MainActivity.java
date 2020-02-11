@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     protected void setupWebView(WebView webView) {
-        webView.getSettings().setJavaScriptEnabled(true);
         webView.setWebChromeClient(new WebChromeClient());
         webView.loadUrl("file:///android_asset/www/index.html");
     }
