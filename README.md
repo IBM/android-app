@@ -22,7 +22,7 @@ In this sample, you will create an Android application complete with standard be
 
 ## Steps
 
-You can manage devops [for this application in IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits) or [build it locally](#building-locally) by cloning this repo first.
+You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits) or [build it locally](#building-locally) by cloning this repo first.
 
 ### Deploying to IBM Cloud
 
@@ -53,7 +53,7 @@ Your application will be running within your chosen device emulator.
 
 
 ## Next Steps
-* Learn more about augmenting your Node.js applications on IBM Cloud with the [Mobile Programming Guide](https://cloud.ibm.com/docs/mobile?topic=mobile-getting-started).
+* Learn more about augmenting your Android applications on IBM Cloud with the [Mobile Programming Guide](https://cloud.ibm.com/docs/mobile?topic=mobile-getting-started).
 * Explore other [sample applications](https://cloud.ibm.com/developer/appservice/starter-kits) on IBM Cloud.
 
 ## License
