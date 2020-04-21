@@ -27,7 +27,7 @@ You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/d
 ### Deploying to IBM Cloud
 
 <p align="center">
-    <a href="https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits">
+    <a href="https://cloud.ibm.com/developer/appservice/apps/bf620fc5-d53f-4644-9ea6-9fe4a62f82ef">
     <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
     </a>
 </p>
