@@ -22,37 +22,26 @@ In this sample, you will create an Android application complete with standard be
 
 ## Steps
 
-You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits) or [build it locally](#building-locally) by cloning this repo first.
+You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/developer/appservice/starter-kits/android-app) or [build it locally](#building-locally) by cloning this repo first.
 
-### Deploying to IBM Cloud
-
-<p align="center">
-    <a href="https://cloud.ibm.com/developer/appservice/create-app?navMode=starterkits">
-    <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
-    </a>
-</p>
-
-Use the button above to develop this same application on IBM Cloud. This option will create a CI/CD pipeline, complete with a hosted GitLab project and DevOps toolchain. [IBM Cloud DevOps](https://www.ibm.com/cloud/devops) services provides toolchains as a set of tool integrations that support development, deployment, and operations tasks inside IBM Cloud. 
-
-### Building Locally
+### Building locally
 
 To get started building this application locally, you can run the application natively.
 
-#### Native Application Development
+#### Native application development
 
 - Install the latest [Android Studio](https://developer.android.com/studio) 3.5.3+ version.
 
 To run your application locally:
 
-- Clone the repo locally, and import the project into Android Studio
+- Clone the repo locally, and import the project into Android Studio.
 
 - Follow the instructions here to run the Android application on an emulator: https://developer.android.com/training/basics/firstapp/running-app
 
+Your application will run within your chosen device emulator.
 
-Your application will be running within your chosen device emulator.
 
-
-## Next Steps
+## Next steps
 * Learn more about augmenting your Android applications on IBM Cloud with the [Mobile Programming Guide](https://cloud.ibm.com/docs/mobile?topic=mobile-getting-started).
 * Explore other [sample applications](https://cloud.ibm.com/developer/appservice/starter-kits) on IBM Cloud.
 
