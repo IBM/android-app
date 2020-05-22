@@ -16,7 +16,7 @@
 
 # Create an Android application
 
-> We have applications available for [Node.js Express](https://github.com/IBM/node-express-app), [Go Gin](https://github.com/IBM/go-gin-app), [Python Flask](https://github.com/IBM/python-flask-app), [Python Django](https://github.com/IBM/python-django-app), [Java Spring](https://github.com/IBM/java-spring-app), [Java Liberty](https://github.com/IBM/java-liberty-app), [Swift Kitura](https://github.com/IBM/swift-kitura-app), and [Android](https://github.com/IBM/android-app).
+> We have applications available for [Node.js Express](https://github.com/IBM/node-express-app), [Go Gin](https://github.com/IBM/go-gin-app), [Python Flask](https://github.com/IBM/python-flask-app), [Python Django](https://github.com/IBM/python-django-app), [Java Spring](https://github.com/IBM/java-spring-app), [Java Liberty](https://github.com/IBM/java-liberty-app), [Swift Kitura](https://github.com/IBM/swift-kitura-app), [Android](https://github.com/IBM/android-app), and [iOS](https://github.com/IBM/ios-app).
 
 In this sample, you will create an Android application complete with standard best practices. An Android app is a software application running on the Android platform. Because the Android platform is built for mobile devices, a typical Android app is designed for a smartphone or a tablet PC running on the Android OS.
 
@@ -24,7 +24,17 @@ In this sample, you will create an Android application complete with standard be
 
 You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/developer/appservice/starter-kits/android-app) or [build it locally](#building-locally) by cloning this repo first.
 
-### Building locally
+### Deploying to IBM Cloud
+
+<p align="center">
+    <a href="https://cloud.ibm.com/developer/appservice/create-app?starterKit=f52aa8e3-d683-37e5-bae6-79c5e3140e9f&defaultLanguage=ANDROID&navMode=starterkits">
+    <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
+    </a>
+</p>
+
+Use the button above to develop this same application on IBM Cloud. This option will create a CI/CD pipeline, complete with a hosted GitLab project and DevOps toolchain. [IBM Cloud DevOps](https://www.ibm.com/cloud/devops) services provides toolchains as a set of tool integrations that support development, deployment, and operations tasks inside IBM Cloud. 
+
+### Building Locally
 
 To get started building this application locally, you can run the application natively.
 
