@@ -17,6 +17,7 @@ jobs:
     runs-on: macOS-latest
     env:
       ANDROID_SDK_ROOT: /Users/runner/android-sdk/
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
     steps:
       - uses: actions/checkout@v2
       - name: set up JDK 1.8
