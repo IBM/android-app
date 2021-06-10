@@ -40,7 +40,7 @@ To get started building this application locally, you can run the application na
 
 #### Native application development
 
-- Install the latest [Android Studio](https://developer.android.com/studio) 3.5.3+ version.
+- Install the latest [Android Studio](https://developer.android.com/studio) 4.2.1+ version.
 
 To run your application locally:
 
