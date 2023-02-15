@@ -1,3 +1,6 @@
+# WARNING: This repository is no longer maintained :warning:
+
+> This repository will not be updated. The repository will be kept available in read-only mode.
 <p align="center">
     <a href="https://cloud.ibm.com">
         <img src="https://cloud.ibm.com/media/docs/developer-appservice/resources/ibm-cloud.svg" height="100" alt="IBM Cloud">
@@ -21,18 +24,6 @@
 In this sample, you will create an Android application complete with standard best practices. An Android app is a software application running on the Android platform. Because the Android platform is built for mobile devices, a typical Android app is designed for a smartphone or a tablet PC running on the Android OS.
 
 ## Steps
-
-You can manage CI/CD [for this application in IBM Cloud](https://cloud.ibm.com/developer/appservice/starter-kits/android-app) or [build it locally](#building-locally) by cloning this repo first.
-
-### Deploying to IBM Cloud
-
-<p align="center">
-    <a href="https://cloud.ibm.com/developer/appservice/create-app?starterKit=f52aa8e3-d683-37e5-bae6-79c5e3140e9f&defaultLanguage=ANDROID&navMode=starterkits">
-    <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
-    </a>
-</p>
-
-Use the button above to develop this same application on IBM Cloud. This option will create a CI/CD pipeline, complete with a hosted GitLab project and DevOps toolchain. [IBM Cloud DevOps](https://www.ibm.com/cloud/devops) services provides toolchains as a set of tool integrations that support development, deployment, and operations tasks inside IBM Cloud. 
 
 ### Building Locally
 
